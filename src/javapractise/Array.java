@@ -24,6 +24,7 @@ public class Array {
         {
 
             System.out.println("Print the array numbers: "+intarray[i]);
+            System.out.println("Print the array numbers: "+intarray[i]);
 
         }
 
